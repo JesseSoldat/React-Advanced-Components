@@ -6,8 +6,19 @@
     "react-scripts": "0.9.3"
   },
   "dependencies": {
+    "animate.css": "3.5.2",
+    "bootstrap": "^3.3.7",
+    "d3": "4.3.0",
+    "faker": "3.1.0",
+    "font-awesome": "4.7.0",
+    "jquery": "3.1.1",
+    "jquery-ui": "1.12.1",
+    "moment": "2.15.2",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2",
+    "react-styleguidist": "4.1.0",
+    "webpack": "1.13.3"
   },
   "scripts": {
     "start": "react-scripts start",
